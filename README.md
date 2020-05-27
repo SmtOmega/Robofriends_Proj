@@ -6,3 +6,5 @@ and email obtained from Json place holder.
 Here is a screenshot of the Robofriend App
 
 
+
+![robofriends image](./images/robofriends.png)
